@@ -100,7 +100,7 @@ const Picker = ({ destination, setDestination }) => {
           backgroundColor:
             destination == "fishingworld"
               ? "rgba(21,111,173,.8)"
-              : "rgba(1, 85, 134, 0.5)",
+              : "rgba(1, 85, 134, 0.6)",
           border:
             destination == "fishingworld"
               ? "3px solid #3dc8ef"
